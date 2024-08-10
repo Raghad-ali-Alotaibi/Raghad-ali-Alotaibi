@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghad Alotaibi</h1>
+![7587df77ef521cf98057d0028ee983f1](https://github.com/user-attachments/assets/45bea411-b3c2-4140-ac1d-27d7119daf1b)
+
 <h3 align="center">I'm a Full Stack Developer Passionate about web development and intent on building beautiful applications with excellent user experiences. and constantly strive to learn and improve my skills.</h3>
 <h4 align="center"> 📫 How to reach me : raghad.ali.alotaibi@gmail.com </h4>
 
