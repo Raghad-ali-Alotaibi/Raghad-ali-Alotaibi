@@ -1,13 +1,11 @@
+[![MasterHead](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Raghad Alotaibi</h1>
-![7587df77ef521cf98057d0028ee983f1](https://github.com/user-attachments/assets/45bea411-b3c2-4140-ac1d-27d7119daf1b)
-
 <h3 align="center">I'm a Full Stack Developer Passionate about web development and intent on building beautiful applications with excellent user experiences. and constantly strive to learn and improve my skills.</h3>
-<h4 align="center"> 📫 How to reach me : raghad.ali.alotaibi@gmail.com </h4>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghad-ali-alotaibi&label=Profile%20views&color=0e75b6&style=flat" alt="raghad-ali-alotaibi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghad-ali-alotaibi" alt="raghad-ali-alotaibi" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
