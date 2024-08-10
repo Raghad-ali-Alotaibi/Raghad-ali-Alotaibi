@@ -19,5 +19,4 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghad-ali-alotaibi&show_icons=true&locale=en&layout=compact" alt="raghad-ali-alotaibi" /></p>
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghad-ali-Alotaibi)](https://github.com/Raghad-ali-Alotaibi/github-readme-stats)
