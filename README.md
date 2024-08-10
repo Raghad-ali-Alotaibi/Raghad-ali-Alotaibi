@@ -19,7 +19,7 @@
 
 
 ## My GitHub Stats
-<div style="display: flex; justify-content: space-between;">
-  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Raghad-ali-Alotaibi&show_icons=true&theme=onedark" width="46%" />
+<div>
+  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Raghad-ali-Alotaibi&show_icons=true&theme=onedark" width="46%"/>
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghad-ali-Alotaibi&layout=compact&theme=onedark" width="35%"  />
 </div>
