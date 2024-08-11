@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Raghad Alotaibi</h1>
-<h4 align="center">I'm a Full Stack Developer Passionate about web development and intent on building beautiful applications with excellent user experiences. and constantly strive to learn and improve my skills.</h4>
+<h4 align="center" style="margin-bottom: 50px;" >I'm a Full Stack Developer Passionate about web development and intent on building beautiful applications with excellent user experiences. and constantly strive to learn and improve my skills.</h4>
 
 
 <div align="center">
