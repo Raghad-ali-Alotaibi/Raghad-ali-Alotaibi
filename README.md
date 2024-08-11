@@ -1,14 +1,16 @@
 [![MasterHead](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Raghad Alotaibi</h1>
-<h3 align="center">I'm a Full Stack Developer Passionate about web development and intent on building beautiful applications with excellent user experiences. and constantly strive to learn and improve my skills.</h3>
+<h4 align="center">I'm a Full Stack Developer Passionate about web development and intent on building beautiful applications with excellent user experiences. and constantly strive to learn and improve my skills.</h4>
 
 <div align="center">
   <a href="https://linkedin.com/in/raghad-alotaibi-631a90269" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 8px; />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 8px;" />
   </a>
+      
   <a href="https://x.com/raghad2alotaibi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" style="margin-right: 8px; />
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" style="margin-right: 8px;" />
   </a>
+      
   <a href="mailto:raghad.ali.alotaibi@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" alt="Gmail"; />
   </a>
