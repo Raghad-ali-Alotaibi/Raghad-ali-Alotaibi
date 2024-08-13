@@ -4,7 +4,7 @@
 <div align="center">
  
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&logoWidth=28)](mailto:raghad.ali.alotaibi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&logoWidth=28)](https://linkedin.com/in/www.linkedin.com/in/raghad-alotaibi-631a90269)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&logoWidth=28)](https://www.linkedin.com/in/raghad-alotaibi-631a90269/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&logoWidth=28)](https://x.com/raghad2alotaibi)
 
 </div>
